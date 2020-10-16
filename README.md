@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/brianszn/Happy-NLW3/master/screenshots/form1.PNG">
 <img src="https://raw.githubusercontent.com/brianszn/Happy-NLW3/master/screenshots/form2.PNG">
 
-## Esforço, dedicação, foco, imensa vontade de aprender <br> contraibui para quefinalizasse esse projeto 100% no prazo! :star:
+## Esforço, dedicação, foco, imensa vontade de aprender <br> contribuiram para que eu finalizasse este projeto 100% no prazo! :star:
 
 # Avante! Vamos estudar! :earth_americas:
 
