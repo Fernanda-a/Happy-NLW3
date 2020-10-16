@@ -1,11 +1,5 @@
 # Happy Next Level Week :rocket: :fire:
 
-<style>
-  body{
-  
-    background:black;
-  }
-</style>
 <img src="https://raw.githubusercontent.com/brianszn/Happy-NLW3/master/screenshots/index.PNG">
 <img src="https://raw.githubusercontent.com/brianszn/Happy-NLW3/master/screenshots/map.PNG">
 <img src="https://raw.githubusercontent.com/brianszn/Happy-NLW3/master/screenshots/gallery.PNG">
