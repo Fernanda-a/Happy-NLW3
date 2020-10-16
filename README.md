@@ -1,4 +1,5 @@
 # Happy Next Level Week :rocket: :fire:
+## Tecnologias usadas: HTML, CSS, JAVASCRIPT, NODEJS!
 
 <img src="https://raw.githubusercontent.com/brianszn/Happy-NLW3/master/screenshots/index.PNG">
 <img src="https://raw.githubusercontent.com/brianszn/Happy-NLW3/master/screenshots/map.PNG">
